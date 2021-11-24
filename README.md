@@ -1,1 +1,6 @@
-# Spring_SignUp
+개발 환경
+Java : 1.8.291
+Oracle : 11g
+Spring
+개발 Tools
+Spring Tool Suite 3 SQL Developer Visual Studio Codes
